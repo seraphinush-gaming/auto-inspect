@@ -2,7 +2,7 @@
 // - C_REQUEST_USER_PAPERDOLL_INFO
 // - S_ASK_INTERACTIVE
 
-// Version 1.00 r:00
+// Version 1.00 r:01
 
 module.exports = function AutoInspect(d) {
 
