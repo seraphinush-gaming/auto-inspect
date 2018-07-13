@@ -1,4 +1,4 @@
-// Version 1.01 r:03
+// Version 1.02 r:00
 
 module.exports = function AutoInspect(d) {
 
