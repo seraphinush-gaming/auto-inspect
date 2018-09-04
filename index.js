@@ -1,10 +1,10 @@
-// Version 1.02 r:00
+// Version 1.03 r:00
 
-module.exports = function AutoInspect(d) {
+module.exports = function AutoInspect(m) {
 
     //code
-    d.hook('S_ANSWER_INTERACTIVE', 2, (e) => {
-        d.send('C_REQUEST_USER_PAPERDOLL_INFO', 1, { name: e.name })
-    })
+    m.hook('S_ANSWER_INTERACTIVE', 2, (e) => {
+        m.send('C_REQUEST_USER_PAPERDOLL_INFO', 1, { name: e.name });
+    });
 
 }

@@ -7,6 +7,8 @@ tera-proxy module to automatically inspect players upon left click
 ## Changelog
 <details>
   
+    1.03
+    - Updated to `mod`
     1.01
     - Added auto-update support
     1.00
