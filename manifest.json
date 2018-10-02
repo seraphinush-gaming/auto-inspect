@@ -1,7 +1,6 @@
 {
     "files": {
-        "index.js": "823ee33e0a25257b1fee51146dc964a9dbd796c36a5872cc99ccd21552387f6b",
-        "module.json": "59c0e8645bd53aab3db73b0c8651e7f66b845195a3daab3161265de230932d2a"
+        "index.js": "823ee33e0a25257b1fee51146dc964a9dbd796c36a5872cc99ccd21552387f6b"
     },
     "defs": {
         "C_REQUEST_USER_PAPERDOLL_INFO": 1,
