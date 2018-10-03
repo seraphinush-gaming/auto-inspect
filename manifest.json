@@ -1,9 +1,0 @@
-{
-    "files": {
-        "index.js": "823ee33e0a25257b1fee51146dc964a9dbd796c36a5872cc99ccd21552387f6b"
-    },
-    "defs": {
-        "C_REQUEST_USER_PAPERDOLL_INFO": 1,
-        "S_ANSWER_INTERACTIVE": 2
-    }
-}
