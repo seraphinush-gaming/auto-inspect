@@ -1,0 +1,5 @@
+{
+	"disableAutoUpdate": false,
+    "options": { "niceName": "auto-inspect" },
+    "servers": ["https://raw.githubusercontent.com/ylennia-archives/auto-inspect/master/"]
+}
