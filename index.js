@@ -6,7 +6,7 @@ class auto_inspect {
 
     // code
     mod.hook('S_ANSWER_INTERACTIVE', 2, (e) => {
-      mod.send('C_REQUEST_USER_PAPERDOLL_INFO', 1, { name: e.name });
+      mod.send('C_REQUEST_USER_PAPERDOLL_INFO', 3, { name: e.name });
     });
 
   }
