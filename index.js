@@ -1,10 +1,16 @@
-// Version 1.03 r:00
+'use strict';
 
-module.exports = function AutoInspect(m) {
+class auto_inspect {
 
-    //code
-    m.hook('S_ANSWER_INTERACTIVE', 2, (e) => {
-        m.send('C_REQUEST_USER_PAPERDOLL_INFO', 1, { name: e.name });
+  constructor(mod) {
+
+    // code
+    mod.hook('S_ANSWER_INTERACTIVE', 2, (e) => {
+      mod.send('C_REQUEST_USER_PAPERDOLL_INFO', 1, { name: e.name });
     });
 
+  }
+
 }
+
+module.exports = auto_inspect;

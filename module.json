@@ -1,5 +1,13 @@
 {
-	"disableAutoUpdate": false,
-    "options": { "niceName": "auto-inspect" },
-    "servers": ["https://raw.githubusercontent.com/ylennia-archives/auto-inspect/master/"]
+  "author": "seraphinush",
+  "description": "tera-toolbox module to automatically inspect players upon left click",
+  "disableAutoUpdate": false,
+  "donationUrl": "https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=B7QQJZV9L5P2J&source=url",
+  "name": "auto-inspect",
+  "options": {
+    "reloadable": true
+  },
+  "servers": ["https://raw.githubusercontent.com/seraphinush-gaming/auto-inspect/master/"],
+  "supportUrl": "https://github.com/seraphinush-gaming/auto-inspect/blob/master/README.md",
+  "version": "1.04.00"
 }
