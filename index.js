@@ -13,4 +13,4 @@ class auto_inspect {
 
 }
 
-module.exports = auto_inspect;
+module.exports = { NetworkMod: auto_inspect };

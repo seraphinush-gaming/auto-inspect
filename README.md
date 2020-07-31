@@ -4,11 +4,12 @@
 </a>
 </p>
 
-# auto-inspect [![paypal.me](https://img.shields.io/badge/paypal.me-donate-333333.svg?colorA=40CEDB&colorB=333333)](https://www.paypal.me/seraphinush)
-tera-toolbox module to automatically inspect players upon left click
 ```
 Support seraph via paypal donations, thanks in advance !
 ```
+
+# auto-inspect [![](https://img.shields.io/badge/paypal-donate-333333.svg?colorA=0070BA&colorB=333333)](https://www.paypal.me/seraphinush)
+tera-toolbox module to automatically inspect players upon left click
 
 ## Installer guide
 - Auto-update option :
