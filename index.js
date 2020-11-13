@@ -11,6 +11,8 @@ class auto_inspect {
 
   }
 
+  destructor() {}
+
 }
 
 module.exports = { NetworkMod: auto_inspect };
