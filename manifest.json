@@ -1,11 +1,7 @@
 {
-	"files": {
-		"README.md": "5f093e710a36cae1b1150c6329eb4923635607d4a99fca2185f0db0d02f8607d",
-		"index.js": "d5dfbdc627d63bc048158798bbefe93b6c1de87176c1ef8e6f5087b313926134",
-		"module.json": "c33c54a074bcaf61007f924f5229bda2f3590ab8e284ecbe8051e55ddc1ef896"
-	},
-	"defs": {
-		"C_REQUEST_USER_PAPERDOLL_INFO": 3,
-		"S_ANSWER_INTERACTIVE": 2
-	}
+  "files": {
+    "README.md": "5f093e710a36cae1b1150c6329eb4923635607d4a99fca2185f0db0d02f8607d",
+    "index.js": "d5dfbdc627d63bc048158798bbefe93b6c1de87176c1ef8e6f5087b313926134",
+    "module.json": "cb809c98c2552dddc05b7870a10127a7599babf6e3c598066f41c8079c9a8356"
+  }
 }
