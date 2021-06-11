@@ -1,6 +1,6 @@
 'use strict';
 
-class auto_inspect {
+class AutoInspect {
 
   constructor(mod) {
 
@@ -11,8 +11,8 @@ class auto_inspect {
 
   }
 
-  destructor() {}
+  destructor() { }
 
 }
 
-module.exports = { NetworkMod: auto_inspect };
+module.exports = { NetworkMod: AutoInspect };
