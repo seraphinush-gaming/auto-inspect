@@ -7,9 +7,10 @@ class AutoInspect {
     // definition
     try {
       mod.dispatch.addDefinition('C_REQUEST_USER_PAPERDOLL_INFO', 4, [
+        ['name', 'refString'],
         ['serverId', 'uint32'],
         ['zoom', 'bool'],
-        ['name', 'string'],
+        ['name', 'string']
       ], false);
     }
     catch {
